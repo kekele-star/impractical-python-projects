@@ -16,7 +16,6 @@ dict_file = sorted(dict_file)
 
 ini_name = input("Enter a name: ")
 
-#______________________________________________________________________________
 
 def find_anagrams(name, word_list):
     """Read name & dictionary file & display all anagrams IN name."""
@@ -91,7 +90,7 @@ def main():
                 sys.exit()  
             else:
                 main()
-#______________________________________________________________________________           
+         
 
 if __name__ == '__main__':
     main()
