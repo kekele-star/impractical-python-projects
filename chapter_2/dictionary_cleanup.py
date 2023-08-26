@@ -1,8 +1,9 @@
 # Find all word-pair palingrams in a dictionary file
 
 """Remove single-letter words from list if not 'a' or 'i'."""
+
+
 word_list = ['a', 'nurses', 'i', 'stack', 'b', 'c', 'cat']
-word_list_clean = []
 
 permissible = ('a', 'i')
 
