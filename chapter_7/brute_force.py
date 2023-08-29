@@ -14,3 +14,6 @@ for perm in product([0, 1, 2, 3, 4, 5, 6, 7, 8, 9], repeat=len(combo)):
 end_time = time.time()
 print("\nRuntime for this program was {} seconds.".format
       (end_time - start_time))   
+
+
+# boyyyy i'm tired, i really need a break
