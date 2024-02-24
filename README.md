@@ -1,9 +1,5 @@
 # impractical-python-projects
 
-Impractical Python Projects
-
-Repository Name: ImpracticalPythonProject
-
 Description:
 Step into a realm where Python code transcends the ordinary and takes on a delightful, whimsical form. Welcome to the "Impractical Python Project" repository, a haven of imaginative coding adventures that beckons me to explore and embrace the artistry of programming. As I venture through this repository, I can't help but marvel at the ingenuity and humor that permeate every line of code.
 
